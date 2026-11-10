@@ -52,7 +52,7 @@ I'm a fifth-year Software Engineering student at Jimma University, passionate ab
 - Develop engaging designs for product promotion and brand visibility.
 - Produce creative visual materials for the company's social media presence.
 
-**Tools:** Adobe Photoshop, Figma, CapCut.
+**Tools:** Adobe Photoshop, Figma.
 
 ---
 ## 🎨 My Graphic Design Portfolio
