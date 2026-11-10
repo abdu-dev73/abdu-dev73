@@ -1,10 +1,10 @@
- <div align="center">
+  <div align="center">
 
 # 👋 Hey, I'm Abdurezak Berisso!
 
 ### Full-Stack Developer | Software Engineering Student | Graphic Designer
 
-I build modern web applications and create meaningful digital experiences through technology and creativity.
+Building modern web applications and creating meaningful digital experiences through technology and creativity.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+Developer;Creative+Graphic+Designer;Building+Real-World+Applications;Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
 
@@ -17,30 +17,57 @@ I build modern web applications and create meaningful digital experiences throug
 
 ## 🚀 About Me
 
-I'm a fifth-year Software Engineering student at Jimma University with a passion for full-stack development, creative design, and building technology-driven solutions.
+I'm a fifth-year Software Engineering student at Jimma University, passionate about full-stack development, creative design, and building technology-driven solutions.
 
 - 🎓 Fifth-year Software Engineering student at Jimma University.
 - 💻 Full-Stack Developer specializing in React and Next.js.
-- 🎨 Full-Time Remote Graphic Designer at BMTIRKASSO Mart.
-- 🏗️ Experienced in developing full-stack web applications using Strapi CMS and PostgreSQL.
-- 📍 Working on Daandii, a campus indoor navigation system powered by QR positioning and Augmented Reality.
+- 🎨 Full-Time Remote Graphic Designer at BMTIRKASSO Mart, Johannesburg, South Africa.
+- 🏗️ Experienced in developing full-stack applications using Next.js, Strapi CMS, and PostgreSQL.
+- 📍 Developing Daandii, a campus indoor navigation system using QR-based positioning and Augmented Reality.
 - 🌱 Always learning, building, and exploring new technologies.
 
 ---
 
 ## 💼 Professional Experience
 
+### 💻 Web Developer Intern — Skyhub Technology Solutions
+
+**Addis Ababa, Ethiopia | March 2026 – June 2026**
+
+- Developed the Droga Pharmacy corporate website and e-commerce platform.
+- Worked on full-stack web development using Next.js, Strapi CMS, and PostgreSQL.
+- Built frontend interfaces and integrated backend content management.
+- Worked on database integration and e-commerce functionality.
+
+**Technologies:** Next.js, Strapi CMS, PostgreSQL.
+
 ### 🎨 Graphic Designer — BMTIRKASSO Mart
 
-**Remote | Full-Time | June 2025 – Present**
+**Johannesburg, South Africa | Remote | Full-Time**
+
+**June 2025 – Present**
 
 - Design eye-catching promotional posters for products and social media.
 - Create professional marketing graphics and visual content.
-- Develop engaging designs that support product promotion and brand visibility.
+- Develop engaging designs for product promotion and brand visibility.
+- Produce creative visual materials for the company's social media presence.
 
 **Tools:** Adobe Photoshop, Figma, CapCut.
 
 ---
+## 🎨 My Graphic Design Portfolio
+
+I also work as a Full-Time Remote Graphic Designer at **BMTIRKASSO Mart**, based in Johannesburg, South Africa.
+
+I create eye-catching promotional posters, product advertisements, and social media graphics.
+
+Explore my creative work and see the designs published on the company's social media platforms.
+
+<div align="center">
+
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Explore_My_Designs-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Va9bAhAHbFUzibkNug0y)
+
+</div>
 
 ## 🛠️ Technologies & Tools
 
@@ -72,7 +99,7 @@ I'm a fifth-year Software Engineering student at Jimma University with a passion
 
 ### 🏨 1. Hotel Booking Website
 
-**Full-Stack Web Application**
+**Full-Stack Web Application | Live**
 
 A full-stack hotel booking platform developed to provide users with a convenient online hotel booking experience.
 
@@ -85,28 +112,26 @@ A full-stack hotel booking platform developed to provide users with a convenient
 
 🌐 **Live Website:** [hotel.qenenia.com](https://hotel.qenenia.com)
 
----
+### 💊 2. Droga Pharmacy — Corporate Website & E-Commerce Platform
 
-### 💊 2. Droga Pharmacy — Online Store & Corporate Website
+**Full-Stack Web Application | Deployment in Progress**
 
-**Full-Stack Web Application**
-
-A full-stack pharmacy platform designed to establish a digital presence for the pharmacy and provide customers with an online shopping experience.
+A full-stack pharmacy platform developed to establish a digital presence for the pharmacy and provide customers with an online shopping experience.
 
 **Key Features:**
-- Online pharmacy product catalog.
-- Product and content management through Strapi CMS.
+- Pharmacy corporate website.
+- Online product catalog and shopping experience.
+- Content and product management through Strapi CMS.
 - Database integration.
-- Corporate website and online store experience.
 
 **Technologies:**
 - Next.js
 - Strapi CMS
 - PostgreSQL
 
-**Status:** 🟡 Deployment in Progress
+**Development:** Developed during my Web Developer Internship at Skyhub Technology Solutions.
 
----
+**Status:** 🟡 Deployment in Progress
 
 ### 📍 3. Daandii — Campus Indoor Navigation System
 
@@ -118,11 +143,25 @@ Daandii is an innovative campus indoor navigation system designed to help studen
 - QR-code-based indoor positioning.
 - Augmented Reality (AR) navigation.
 - Indoor location guidance.
-- Interactive campus navigation.
-
-**Technologies:** QR-based positioning, Augmented Reality, and web development technologies.
+- Interactive campus navigation experience.
 
 **Status:** 🚧 Final Year Project — In Development
+
+### 🍽️ 4. Restaurant Website
+
+**Upcoming Project**
+
+An upcoming web development project focused on building a modern restaurant website.
+
+**Status:** 🔵 Coming Soon
+
+### 💬 5. Waliin Chat — Mobile Application
+
+**Upcoming Mobile App Project**
+
+An upcoming mobile application project focused on chat and communication.
+
+**Status:** 🔵 Coming Soon
 
 ---
 
